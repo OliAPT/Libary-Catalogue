@@ -1,6 +1,9 @@
 /**
  * Book Class represents the data we need to save a book. it has getters and setters to access the books attributes
  * it overrides the toString method in order to define how a book should be printed in the console
+ *
+ * Github.com/OliAPT
+ * @OliAPT
  */
 public class Book {
 
