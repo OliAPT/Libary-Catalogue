@@ -1,0 +1,8 @@
+ - William Stalling - 25.00 - Prentice Hall - 1304086641
+Programming with Perl - - 19.99 - Wiley - 0476887021
+A Guide to MySQL -Paul Barry -  - Thomson - 1418834351
+Perl and CGI - Elizabeth Castro - 99.50 - - 0201735687
+Web Design - Hoel Sklar - 9.99 - Course Tech - 
+HTML and JavaScript: David  Gast - 12.00 - Wiley 0471383661
+Database and Web - Simon Burns - 12Q - Perasons - 0559000412
+Trace of Guilt - Neil Barret - 5.99 - Corgi Books - 055X215001
