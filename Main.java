@@ -12,8 +12,8 @@ import java.util.Scanner;
  * //displayResults\\ prints the output in the table format
  * you can alos search book by title && author.
  *
- * Github.com/OliAPT
- * @OliAPT 
+ * Github.com/eulo08
+ * @eulo_apt
  */
 public class Main {
     // declared a scanner object to read input and point it to the standard input device aka the keyboard
